@@ -1,0 +1,46 @@
+body{
+   background-color: #e5cfd2;
+}
+.tabledesign{
+    margin: auto;
+    padding: 5%;
+
+}
+.contenttext{
+    padding:50px 10px 50px 30px; 
+    margin:10px 30px 60px 100px;
+   
+}
+.table-bordered{
+    border-color: brown;
+}
+
+.conteiner{
+    width: 30px;
+    height: 50px;
+}
+
+
+.form{
+    text-align: center;
+}
+
+.x{
+  
+    margin-left: 730px;
+    margin-bottom: 15px;
+}
+
+.y{
+    margin-left: 944px;
+}
+
+.bosluk{
+    padding: 15px;
+    
+}
+.imagesytl{
+    margin: 50px;
+    padding: 50px;
+    
+}
